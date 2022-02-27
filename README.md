@@ -12,6 +12,8 @@ First, I built linear regression and decision tree as the baseline model. Then, 
 ### For model evaluation part:
 I plotted the feature importance to see which feature played an important part. Moreover, I evaluated the results by plotting graphs for actual and predicted values, finding that the model still went wrong on outliers. The model still got space to improve.
 
+
+
 My Kaggle notebook: https://www.kaggle.com/viviho/wids-datathon-2022-lightgbm
 
 Kaggle Dataset: https://www.kaggle.com/c/widsdatathon2022/overview
