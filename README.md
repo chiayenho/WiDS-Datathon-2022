@@ -1,7 +1,7 @@
 # WiDS-Datathon-2022
 I attended the WiDS Datathon 2022 competition, the first machine learning competition I joined.
 
-The main goal is to predict building energy consumption by analyzing differences in building energy efficiency. 
+The main goal is to predict building energy consumption by analyzing differences in building energy efficiency and weather variables. Accurate predictions of energy consumption can help policymakers target retrofitting efforts to maximize emissions reductions.
 
 ### For data exploration part:
 I created some plots to understand the data distribution and correlation better. Further, I made some new features based on my understanding.
@@ -14,8 +14,8 @@ I plotted the feature importance to see which feature played an important part. 
 
 
 
-My Kaggle notebook: https://www.kaggle.com/viviho/wids-datathon-2022-lightgbm
+Link to my Kaggle notebook: https://www.kaggle.com/viviho/wids-datathon-2022-lightgbm
 
 Kaggle Dataset: https://www.kaggle.com/c/widsdatathon2022/overview
 
-Inspired by: https://github.com/michevan/WIDS-Google
+Inspired by Google WiDS conference: https://github.com/michevan/WIDS-Google
